@@ -1,0 +1,544 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Game Empty Render 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-crrsfI iVnQMr"
+      >
+        <div
+          class="sc-dQppl hMUciP"
+        />
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-crrsfI iVnQMr"
+    >
+      <div
+        class="sc-dQppl hMUciP"
+      />
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Game Filled Render 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-crrsfI iVnQMr"
+      >
+        <div
+          class="sc-pFZIQ gwVLIm"
+        >
+          <div
+            class="sc-jrAGrp bNQYBx"
+            height="80.75vhvh"
+          >
+            <div
+              class="sc-kEjbxe kkVOZj"
+            >
+              <div
+                class="sc-hKgILt jBOIA-D"
+                opacity="0.3"
+                size="163"
+              />
+            </div>
+          </div>
+          <a
+            class="sc-iqHYGH cneMPT"
+            font-size="3.4vh"
+            height="4.25vh"
+          >
+            main with undefined points
+          </a>
+        </div>
+        <div
+          class="sc-iBPRYJ dRBUhu"
+          width="NaNpx"
+        >
+          <header
+            class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary makeStyles-appBar-1 MuiPaper-elevation4"
+          >
+            <div
+              class="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-2 MuiToolbar-gutters"
+            >
+              <span
+                class="sc-bdfBwQ dYepCs"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-icon-3"
+                  focusable="false"
+                  title=""
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M21 6H3c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-10 7H8v3H6v-3H3v-2h3V8h2v3h3v2zm4.5 2c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm4-3c-.83 0-1.5-.67-1.5-1.5S18.67 9 19.5 9s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"
+                  />
+                </svg>
+                <h2
+                  class="sc-gsTCUz"
+                >
+                  Additional
+                </h2>
+              </span>
+            </div>
+          </header>
+          <span
+            class="sc-dlfnbm bntuiM"
+          >
+            Keeped Piece
+          </span>
+          <div
+            class="sc-eCssSg ciLaIA"
+          >
+            <div
+              class="sc-jSgupP jQKSYs"
+              height="15vh"
+            />
+          </div>
+          <span
+            class="sc-dlfnbm bntuiM"
+          >
+            Next Pieces
+          </span>
+          <div
+            class="sc-fubCfw uDENn"
+          >
+            <div
+              class="sc-eCssSg ciLaIA"
+            >
+              <div
+                class="sc-jSgupP jQKSYs"
+                height="15vh"
+              >
+                <div
+                  class="sc-gKsewC eeibFv"
+                >
+                  <div
+                    class="sc-hKgILt hBVxKa"
+                    size="28"
+                  />
+                  <div
+                    class="sc-hKgILt krEwUu"
+                    size="28"
+                  />
+                  <div
+                    class="sc-hKgILt hBVxKa"
+                    size="28"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-dQppl hMUciP"
+        />
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-crrsfI iVnQMr"
+    >
+      <div
+        class="sc-pFZIQ gwVLIm"
+      >
+        <div
+          class="sc-jrAGrp bNQYBx"
+          height="80.75vhvh"
+        >
+          <div
+            class="sc-kEjbxe kkVOZj"
+          >
+            <div
+              class="sc-hKgILt jBOIA-D"
+              opacity="0.3"
+              size="163"
+            />
+          </div>
+        </div>
+        <a
+          class="sc-iqHYGH cneMPT"
+          font-size="3.4vh"
+          height="4.25vh"
+        >
+          main with undefined points
+        </a>
+      </div>
+      <div
+        class="sc-iBPRYJ dRBUhu"
+        width="NaNpx"
+      >
+        <header
+          class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary makeStyles-appBar-1 MuiPaper-elevation4"
+        >
+          <div
+            class="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-2 MuiToolbar-gutters"
+          >
+            <span
+              class="sc-bdfBwQ dYepCs"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root makeStyles-icon-3"
+                focusable="false"
+                title=""
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M21 6H3c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-10 7H8v3H6v-3H3v-2h3V8h2v3h3v2zm4.5 2c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm4-3c-.83 0-1.5-.67-1.5-1.5S18.67 9 19.5 9s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"
+                />
+              </svg>
+              <h2
+                class="sc-gsTCUz"
+              >
+                Additional
+              </h2>
+            </span>
+          </div>
+        </header>
+        <span
+          class="sc-dlfnbm bntuiM"
+        >
+          Keeped Piece
+        </span>
+        <div
+          class="sc-eCssSg ciLaIA"
+        >
+          <div
+            class="sc-jSgupP jQKSYs"
+            height="15vh"
+          />
+        </div>
+        <span
+          class="sc-dlfnbm bntuiM"
+        >
+          Next Pieces
+        </span>
+        <div
+          class="sc-fubCfw uDENn"
+        >
+          <div
+            class="sc-eCssSg ciLaIA"
+          >
+            <div
+              class="sc-jSgupP jQKSYs"
+              height="15vh"
+            >
+              <div
+                class="sc-gKsewC eeibFv"
+              >
+                <div
+                  class="sc-hKgILt hBVxKa"
+                  size="28"
+                />
+                <div
+                  class="sc-hKgILt krEwUu"
+                  size="28"
+                />
+                <div
+                  class="sc-hKgILt hBVxKa"
+                  size="28"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="sc-dQppl hMUciP"
+      />
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`Game Filled Render 2`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-crrsfI iVnQMr"
+      >
+        <div
+          class="sc-pFZIQ gwVLIm"
+        >
+          <div
+            class="sc-jrAGrp bNQYBx"
+            height="80.75vhvh"
+          >
+            <div
+              class="sc-kEjbxe kkVOZj"
+            >
+              <div
+                class="sc-hKgILt loolLL"
+                opacity="1"
+                size="163"
+              />
+            </div>
+          </div>
+          <a
+            class="sc-iqHYGH cneMPT"
+            font-size="3.4vh"
+            height="4.25vh"
+          >
+            main with undefined points
+          </a>
+        </div>
+        <div
+          class="sc-dQppl hMUciP"
+        >
+          <div
+            class="sc-pFZIQ gwVLIm"
+          >
+            <div
+              class="sc-jrAGrp bjniTD"
+              height="26.916666666666664vhvh"
+            >
+              <div
+                class="sc-kEjbxe kkVOZj"
+              >
+                <div
+                  class="sc-hKgILt fNEpTO"
+                  opacity="0.3"
+                  size="54"
+                />
+              </div>
+            </div>
+            <a
+              class="sc-iqHYGH dIUbeX"
+              font-size="1.1333333333333333vh"
+              height="1.4166666666666665vh"
+            >
+              secondary with undefined points
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-crrsfI iVnQMr"
+    >
+      <div
+        class="sc-pFZIQ gwVLIm"
+      >
+        <div
+          class="sc-jrAGrp bNQYBx"
+          height="80.75vhvh"
+        >
+          <div
+            class="sc-kEjbxe kkVOZj"
+          >
+            <div
+              class="sc-hKgILt loolLL"
+              opacity="1"
+              size="163"
+            />
+          </div>
+        </div>
+        <a
+          class="sc-iqHYGH cneMPT"
+          font-size="3.4vh"
+          height="4.25vh"
+        >
+          main with undefined points
+        </a>
+      </div>
+      <div
+        class="sc-dQppl hMUciP"
+      >
+        <div
+          class="sc-pFZIQ gwVLIm"
+        >
+          <div
+            class="sc-jrAGrp bjniTD"
+            height="26.916666666666664vhvh"
+          >
+            <div
+              class="sc-kEjbxe kkVOZj"
+            >
+              <div
+                class="sc-hKgILt fNEpTO"
+                opacity="0.3"
+                size="54"
+              />
+            </div>
+          </div>
+          <a
+            class="sc-iqHYGH dIUbeX"
+            font-size="1.1333333333333333vh"
+            height="1.4166666666666665vh"
+          >
+            secondary with undefined points
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

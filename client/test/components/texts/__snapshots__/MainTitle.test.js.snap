@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainTitle Standard 1`] = `
+<h1
+  className="sc-bdfBwQ jYASYV"
+/>
+`;
+
+exports[`MainTitle Standard 2`] = `
+<h1
+  className="sc-bdfBwQ jYASYV"
+/>
+`;

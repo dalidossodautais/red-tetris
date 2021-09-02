@@ -1,0 +1,162 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CreationButton Standard 1`] = `
+<React.Fragment>
+  <_default
+    onClick={[Function]}
+    variant="outlined"
+  >
+    Create
+  </_default>
+  <_default
+    onClose={[Function]}
+    onKeyUp={[Function]}
+    open={false}
+  >
+    <Styled(WithStyles(ForwardRef(Toolbar)))
+      marginbottom="10px"
+    >
+      <styled.h2
+        fontWeight="normal"
+      >
+        Choose a room name
+      </styled.h2>
+    </Styled(WithStyles(ForwardRef(Toolbar)))>
+    <styled.div>
+      <_default
+        choices={
+          Array [
+            Object {
+              "label": "Solo",
+              "value": "solo",
+            },
+            Object {
+              "label": "Public",
+              "value": "public",
+            },
+            Object {
+              "label": "Private",
+              "value": "private",
+            },
+          ]
+        }
+        label="Gamemode"
+        onChange={[Function]}
+        value="solo"
+        variant="outlined"
+      />
+      <_default
+        error={null}
+        hide={true}
+        label="Room name"
+        onChange={[Function]}
+        value=""
+        variant="outlined"
+      />
+      <_default
+        error={null}
+        hide={true}
+        label="Password"
+        onChange={[Function]}
+        type="password"
+        value=""
+        variant="outlined"
+      />
+    </styled.div>
+    <styled.div>
+      <_default
+        disabled={false}
+        onClick={[Function]}
+        variant="contained"
+      >
+        Create
+      </_default>
+    </styled.div>
+  </_default>
+</React.Fragment>
+`;
+
+exports[`CreationButton Standard 2`] = `
+<React.Fragment>
+  <_default
+    onClick={[Function]}
+    variant="outlined"
+  >
+    Create
+  </_default>
+  <_default
+    onClose={[Function]}
+    onKeyUp={[Function]}
+    open={false}
+  >
+    <Styled(WithStyles(ForwardRef(Toolbar)))
+      marginbottom="10px"
+    >
+      <styled.h2
+        fontWeight="normal"
+      >
+        Choose a room name
+      </styled.h2>
+    </Styled(WithStyles(ForwardRef(Toolbar)))>
+    <styled.div>
+      <_default
+        choices={
+          Array [
+            Object {
+              "label": "Solo",
+              "value": "solo",
+            },
+            Object {
+              "label": "Public",
+              "value": "public",
+            },
+            Object {
+              "label": "Private",
+              "value": "private",
+            },
+          ]
+        }
+        label="Gamemode"
+        onChange={[Function]}
+        value="solo"
+        variant="outlined"
+      />
+      <_default
+        error={null}
+        hide={true}
+        label="Room name"
+        onChange={[Function]}
+        value=""
+        variant="outlined"
+      />
+      <_default
+        error={null}
+        hide={true}
+        label="Password"
+        onChange={[Function]}
+        type="password"
+        value=""
+        variant="outlined"
+      />
+    </styled.div>
+    <styled.div>
+      <_default
+        disabled={false}
+        onClick={[Function]}
+        variant="contained"
+      >
+        Create
+      </_default>
+    </styled.div>
+  </_default>
+</React.Fragment>
+`;
+
+exports[`CreationButton Standard 3`] = `
+<_default
+  onClick={[Function]}
+  variant="outlined"
+>
+  Create
+</_default>
+`;

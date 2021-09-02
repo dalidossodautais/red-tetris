@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spacing Standard 1`] = `
+<div
+  className="sc-bdfBwQ gWRubP"
+/>
+`;
+
+exports[`Spacing Standard 2`] = `
+<div
+  className="sc-bdfBwQ gWRubP"
+/>
+`;

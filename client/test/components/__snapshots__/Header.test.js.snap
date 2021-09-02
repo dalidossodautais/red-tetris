@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Standard 1`] = `
+Array [
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorPrimary makeStyles-appBar-1 mui-fixed MuiPaper-elevation4"
+  >
+    <h1
+      className="sc-gsTCUz gecxEx"
+    />
+  </header>,
+  <div
+    className="sc-bdfBwQ jRZqUG"
+    height="10vh"
+    width="100%"
+  />,
+]
+`;
+
+exports[`Header Standard 2`] = `
+Array [
+  <header
+    className="MuiPaper-root MuiAppBar-root MuiAppBar-positionFixed MuiAppBar-colorPrimary makeStyles-appBar-1 mui-fixed MuiPaper-elevation4"
+  >
+    <h1
+      className="sc-gsTCUz gecxEx"
+    />
+  </header>,
+  <div
+    className="sc-bdfBwQ jRZqUG"
+    height="10vh"
+    width="100%"
+  />,
+]
+`;

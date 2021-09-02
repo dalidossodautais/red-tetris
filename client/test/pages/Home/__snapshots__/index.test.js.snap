@@ -1,0 +1,518 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Basic Render 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="sc-dQppl leUUa"
+      >
+        <div
+          class="sc-bdfBwQ gHISfk"
+        >
+          <header
+            class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary makeStyles-appBar-1 MuiPaper-elevation4"
+          >
+            <div
+              class="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-2 MuiToolbar-gutters"
+            >
+              <span
+                class="sc-dlfnbm cmpRJn"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-icon-3"
+                  focusable="false"
+                  title=""
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M21 6H3c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-10 7H8v3H6v-3H3v-2h3V8h2v3h3v2zm4.5 2c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm4-3c-.83 0-1.5-.67-1.5-1.5S18.67 9 19.5 9s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"
+                  />
+                </svg>
+                <h2
+                  class="sc-hKgILt"
+                >
+                  Rooms
+                </h2>
+              </span>
+              <div
+                class="MuiFormControl-root MuiTextField-root makeStyles-textField-4"
+              >
+                <label
+                  class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                  data-shrink="false"
+                >
+                  Search
+                </label>
+                <div
+                  class="MuiInputBase-root MuiOutlinedInput-root makeStyles-textFieldInput-5 MuiInputBase-formControl"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="MuiInputBase-input MuiOutlinedInput-input"
+                    type="text"
+                    value=""
+                  />
+                  <fieldset
+                    aria-hidden="true"
+                    class="PrivateNotchedOutline-root-6 MuiOutlinedInput-notchedOutline"
+                  >
+                    <legend
+                      class="PrivateNotchedOutline-legendLabelled-8"
+                    >
+                      <span>
+                        Search
+                      </span>
+                    </legend>
+                  </fieldset>
+                </div>
+              </div>
+            </div>
+          </header>
+          <div
+            class="sc-iqHYGH cmXRmw"
+          >
+            <div
+              class="sc-crrsfI hjJcVH"
+            >
+              <div
+                class="sc-kEjbxe kgsczG"
+                font-weight="bold"
+                width="240px"
+              >
+                Name
+              </div>
+              <div
+                class="sc-kEjbxe iBlymA"
+                font-weight="bold"
+                width="80px"
+              >
+                Players
+              </div>
+              <div
+                class="sc-kEjbxe iBlymA"
+                font-weight="bold"
+                width="80px"
+              >
+                Viewers
+              </div>
+              <div
+                class="sc-kEjbxe kgYzBN"
+                font-weight="bold"
+                width="100px"
+              >
+                Type
+              </div>
+            </div>
+          </div>
+          <div
+            class="sc-gsTCUz dqxiDM"
+          >
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button-10"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-label"
+              >
+                Create
+              </span>
+              <span
+                class="MuiTouchRipple-root"
+              />
+            </button>
+            <button
+              class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button-12 Mui-disabled Mui-disabled"
+              disabled=""
+              tabindex="-1"
+              type="button"
+            >
+              <span
+                class="MuiButton-label"
+              >
+                Join
+              </span>
+            </button>
+          </div>
+        </div>
+        <div
+          class="sc-bdfBwQ gHISfk"
+        >
+          <header
+            class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary makeStyles-appBar-14 MuiPaper-elevation4"
+          >
+            <div
+              class="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-15 MuiToolbar-gutters"
+            >
+              <span
+                class="sc-dlfnbm cmpRJn"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="MuiSvgIcon-root makeStyles-icon-16"
+                  focusable="false"
+                  title=""
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M21 6H3c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-10 7H8v3H6v-3H3v-2h3V8h2v3h3v2zm4.5 2c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm4-3c-.83 0-1.5-.67-1.5-1.5S18.67 9 19.5 9s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"
+                  />
+                </svg>
+                <h2
+                  class="sc-hKgILt"
+                >
+                  Scores
+                </h2>
+              </span>
+              <div
+                class="MuiFormControl-root MuiTextField-root makeStyles-textField-17"
+              >
+                <label
+                  class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                  data-shrink="false"
+                >
+                  Search
+                </label>
+                <div
+                  class="MuiInputBase-root MuiOutlinedInput-root makeStyles-textFieldInput-18 MuiInputBase-formControl"
+                >
+                  <input
+                    aria-invalid="false"
+                    class="MuiInputBase-input MuiOutlinedInput-input"
+                    type="text"
+                    value=""
+                  />
+                  <fieldset
+                    aria-hidden="true"
+                    class="PrivateNotchedOutline-root-6 MuiOutlinedInput-notchedOutline"
+                  >
+                    <legend
+                      class="PrivateNotchedOutline-legendLabelled-8"
+                    >
+                      <span>
+                        Search
+                      </span>
+                    </legend>
+                  </fieldset>
+                </div>
+              </div>
+            </div>
+          </header>
+          <div
+            class="sc-iqHYGH cmXRmw"
+          >
+            <div
+              class="sc-crrsfI hjJcVH"
+            >
+              <div
+                class="sc-kEjbxe khoSfV"
+                font-weight="bold"
+                width="320px"
+              >
+                Name
+              </div>
+              <div
+                class="sc-kEjbxe iBlymA"
+                font-weight="bold"
+                width="80px"
+              >
+                Points
+              </div>
+              <div
+                class="sc-kEjbxe kgYzBN"
+                font-weight="bold"
+                width="100px"
+              >
+                Type
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-dQppl leUUa"
+    >
+      <div
+        class="sc-bdfBwQ gHISfk"
+      >
+        <header
+          class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary makeStyles-appBar-1 MuiPaper-elevation4"
+        >
+          <div
+            class="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-2 MuiToolbar-gutters"
+          >
+            <span
+              class="sc-dlfnbm cmpRJn"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root makeStyles-icon-3"
+                focusable="false"
+                title=""
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M21 6H3c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-10 7H8v3H6v-3H3v-2h3V8h2v3h3v2zm4.5 2c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm4-3c-.83 0-1.5-.67-1.5-1.5S18.67 9 19.5 9s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"
+                />
+              </svg>
+              <h2
+                class="sc-hKgILt"
+              >
+                Rooms
+              </h2>
+            </span>
+            <div
+              class="MuiFormControl-root MuiTextField-root makeStyles-textField-4"
+            >
+              <label
+                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                data-shrink="false"
+              >
+                Search
+              </label>
+              <div
+                class="MuiInputBase-root MuiOutlinedInput-root makeStyles-textFieldInput-5 MuiInputBase-formControl"
+              >
+                <input
+                  aria-invalid="false"
+                  class="MuiInputBase-input MuiOutlinedInput-input"
+                  type="text"
+                  value=""
+                />
+                <fieldset
+                  aria-hidden="true"
+                  class="PrivateNotchedOutline-root-6 MuiOutlinedInput-notchedOutline"
+                >
+                  <legend
+                    class="PrivateNotchedOutline-legendLabelled-8"
+                  >
+                    <span>
+                      Search
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+          </div>
+        </header>
+        <div
+          class="sc-iqHYGH cmXRmw"
+        >
+          <div
+            class="sc-crrsfI hjJcVH"
+          >
+            <div
+              class="sc-kEjbxe kgsczG"
+              font-weight="bold"
+              width="240px"
+            >
+              Name
+            </div>
+            <div
+              class="sc-kEjbxe iBlymA"
+              font-weight="bold"
+              width="80px"
+            >
+              Players
+            </div>
+            <div
+              class="sc-kEjbxe iBlymA"
+              font-weight="bold"
+              width="80px"
+            >
+              Viewers
+            </div>
+            <div
+              class="sc-kEjbxe kgYzBN"
+              font-weight="bold"
+              width="100px"
+            >
+              Type
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-gsTCUz dqxiDM"
+        >
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button-10"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Create
+            </span>
+            <span
+              class="MuiTouchRipple-root"
+            />
+          </button>
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button-12 Mui-disabled Mui-disabled"
+            disabled=""
+            tabindex="-1"
+            type="button"
+          >
+            <span
+              class="MuiButton-label"
+            >
+              Join
+            </span>
+          </button>
+        </div>
+      </div>
+      <div
+        class="sc-bdfBwQ gHISfk"
+      >
+        <header
+          class="MuiPaper-root MuiAppBar-root MuiAppBar-positionStatic MuiAppBar-colorPrimary makeStyles-appBar-14 MuiPaper-elevation4"
+        >
+          <div
+            class="MuiToolbar-root MuiToolbar-regular makeStyles-toolbar-15 MuiToolbar-gutters"
+          >
+            <span
+              class="sc-dlfnbm cmpRJn"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root makeStyles-icon-16"
+                focusable="false"
+                title=""
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M21 6H3c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-10 7H8v3H6v-3H3v-2h3V8h2v3h3v2zm4.5 2c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm4-3c-.83 0-1.5-.67-1.5-1.5S18.67 9 19.5 9s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"
+                />
+              </svg>
+              <h2
+                class="sc-hKgILt"
+              >
+                Scores
+              </h2>
+            </span>
+            <div
+              class="MuiFormControl-root MuiTextField-root makeStyles-textField-17"
+            >
+              <label
+                class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+                data-shrink="false"
+              >
+                Search
+              </label>
+              <div
+                class="MuiInputBase-root MuiOutlinedInput-root makeStyles-textFieldInput-18 MuiInputBase-formControl"
+              >
+                <input
+                  aria-invalid="false"
+                  class="MuiInputBase-input MuiOutlinedInput-input"
+                  type="text"
+                  value=""
+                />
+                <fieldset
+                  aria-hidden="true"
+                  class="PrivateNotchedOutline-root-6 MuiOutlinedInput-notchedOutline"
+                >
+                  <legend
+                    class="PrivateNotchedOutline-legendLabelled-8"
+                  >
+                    <span>
+                      Search
+                    </span>
+                  </legend>
+                </fieldset>
+              </div>
+            </div>
+          </div>
+        </header>
+        <div
+          class="sc-iqHYGH cmXRmw"
+        >
+          <div
+            class="sc-crrsfI hjJcVH"
+          >
+            <div
+              class="sc-kEjbxe khoSfV"
+              font-weight="bold"
+              width="320px"
+            >
+              Name
+            </div>
+            <div
+              class="sc-kEjbxe iBlymA"
+              font-weight="bold"
+              width="80px"
+            >
+              Points
+            </div>
+            <div
+              class="sc-kEjbxe kgYzBN"
+              font-weight="bold"
+              width="100px"
+            >
+              Type
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

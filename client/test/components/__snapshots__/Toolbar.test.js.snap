@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Toolbar Standard 1`] = `
+<div
+  className="MuiToolbar-root MuiToolbar-regular sc-bdfBwQ bRqnyM MuiToolbar-gutters"
+/>
+`;
+
+exports[`Toolbar Standard 2`] = `
+<div
+  className="MuiToolbar-root MuiToolbar-regular sc-bdfBwQ bRqnyM MuiToolbar-gutters"
+/>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Cell Standard 1`] = `
+<div
+  className="sc-bdfBwQ jbGekO"
+/>
+`;
+
+exports[`Cell Standard 2`] = `
+<div
+  className="sc-bdfBwQ jbGekO"
+/>
+`;

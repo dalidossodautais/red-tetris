@@ -1,0 +1,43 @@
+{
+  "author": "ddosso-d rahassin",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "socket.io": "^2.4.1"
+  },
+  "devDependencies": {
+    "@babel/node": "^7.13.0",
+    "@babel/preset-env": "^7.13.0",
+    "@babel/register": "^7.13.0",
+    "babel-eslint": "^10.1.0",
+    "chai": "^4.3.0",
+    "eslint": "^7.20.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "mocha": "^8.3.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "nyc": "^15.1.0",
+    "prettier": "^2.2.1",
+    "regenerator-runtime": "^0.13.7"
+  },
+  "keywords": [
+    "tetris",
+    "server",
+    "socket"
+  ],
+  "main": "src/index.js",
+  "name": "red-tetris_server",
+  "private": true,
+  "scripts": {
+    "coverage": "nyc npm test",
+    "env-dev": "echo NODE_ENV=dev > .env",
+    "env-prod": "echo NODE_ENV=prod > .env",
+    "eslint": "eslint '**/*.js'",
+    "start": "nodemon --exec babel-node src",
+    "start-dev": "NODE_ENV=dev nodemon --exec babel-node src",
+    "start-prod": "cd ../client && npm run build && cd ../server && NODE_ENV=prod babel-node src",
+    "test": "NODE_ENV=test mocha --require @babel/register --require regenerator-runtime/runtime test/**/*.test.js",
+    "webpack": "webpack"
+  },
+  "version": "0.2.1"
+}
